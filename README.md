@@ -1,8 +1,4 @@
 # norris_jokes
+A mobile app that gets you random jokes. Built with Flutter and written in Dart.
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![](screenshot.gif)
